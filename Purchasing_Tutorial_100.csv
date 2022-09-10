@@ -1,0 +1,105 @@
+Name,State,Creation_date,Start_date,End_date,Employee nr,User Name,Role,Company Code,Purchase Id,Company Name,Value,Product,Supplier,Promised Date
+Warehouse Loading,COMPLETED,20/06/13 01:01,20/06/13 01:01,20/06/13 01:01,0,Nancy William,Warehouse Manager,M002,2000000247M0022013,Invenio Automotive Sport,14278,Cables,Cable Co. Inc.,10/6/2013
+Accountancy Registration,COMPLETED,28/06/13 02:02,28/06/13 02:02,28/06/13 02:02,47126,Mathew Turner,Accountancy,M002,2000000247M0022013,Invenio Automotive Sport,14278,Cables,Cable Co. Inc.,10/6/2013
+Invoice Check,COMPLETED,10/7/2013 16:32,25/07/13 15:07,25/07/13 15:07,47126,Mathew Turner,Accountancy,M002,2000000247M0022013,Invenio Automotive Sport,14278,Cables,Cable Co. Inc.,10/6/2013
+Goods Check,COMPLETED,25/07/13 15:07,25/07/13 15:07,26/07/13 08:40,40226,Arthur Barrett,Warehouse Department,M002,2000000247M0022013,Invenio Automotive Sport,14278,Cables,Cable Co. Inc.,10/6/2013
+Wait,COMPLETED,26/07/13 08:40,26/07/13 08:40,26/07/13 08:40,0,Nancy William,Payment Department,M002,2000000247M0022013,Invenio Automotive Sport,14278,Cables,Cable Co. Inc.,10/6/2013
+Invoice Check,COMPLETED,26/07/13 08:40,5/8/2013 11:20,5/8/2013 11:20,47126,Mathew Turner,Accountancy,M002,2000000247M0022013,Invenio Automotive Sport,14278,Cables,Cable Co. Inc.,10/6/2013
+Wait,COMPLETED,5/8/2013 11:20,5/8/2013 11:20,5/8/2013 11:20,0,Nancy William,Payment Department,M002,2000000247M0022013,Invenio Automotive Sport,14278,Cables,Cable Co. Inc.,10/6/2013
+Invoice Check,COMPLETED,5/8/2013 11:20,5/8/2013 11:52,5/8/2013 11:52,47126,Mathew Turner,Accountancy,M002,2000000247M0022013,Invenio Automotive Sport,14278,Cables,Cable Co. Inc.,10/6/2013
+Payment Preparation,COMPLETED,5/8/2013 11:52,6/8/2013 14:26,6/8/2013 14:26,47126,Mathew Turner,Accountancy,M002,2000000247M0022013,Invenio Automotive Sport,14278,Cables,Cable Co. Inc.,10/6/2013
+Payment Authorization,COMPLETED,6/8/2013 14:26,6/8/2013 15:22,6/8/2013 15:22,47063,Kenneth Greenlaw,Payment Department,M002,2000000247M0022013,Invenio Automotive Sport,14278,Cables,Cable Co. Inc.,10/6/2013
+Warehouse Loading,COMPLETED,5/7/2013 1:01,5/7/2013 1:01,5/7/2013 1:01,0,Nancy William,Warehouse Manager,M002,2000000502M0022013,Invenio Automotive Sport,14278,wheels,MM spa,5/7/2013
+Accountancy Registration,COMPLETED,23/08/13 02:02,23/08/13 02:02,23/08/13 02:02,47126,Mathew Turner,Accountancy,M002,2000000502M0022013,Invenio Automotive Sport,14278,wheels,MM spa,5/7/2013
+Invoice Check,COMPLETED,23/08/13 16:04,23/10/13 08:36,23/10/13 08:36,47126,Mathew Turner,Accountancy,M002,2000000502M0022013,Invenio Automotive Sport,14278,wheels,MM spa,5/7/2013
+Wait,COMPLETED,23/10/13 08:36,23/10/13 08:36,23/10/13 08:36,0,Nancy William,Payment Department,M002,2000000502M0022013,Invenio Automotive Sport,14278,wheels,MM spa,5/7/2013
+Invoice Check,COMPLETED,23/10/13 08:36,27/11/13 10:52,27/11/13 10:52,47126,Mathew Turner,Accountancy,M002,2000000502M0022013,Invenio Automotive Sport,14278,wheels,MM spa,5/7/2013
+Goods Check,COMPLETED,27/11/13 10:52,27/11/13 10:52,27/11/13 11:01,47061,Joseph Boudreau,Warehouse Department,M002,2000000502M0022013,Invenio Automotive Sport,14278,wheels,MM spa,5/7/2013
+Wait,COMPLETED,27/11/13 11:01,27/11/13 11:01,27/11/13 11:01,0,Nancy William,Payment Department,M002,2000000502M0022013,Invenio Automotive Sport,14278,wheels,MM spa,5/7/2013
+Invoice Check,COMPLETED,27/11/13 11:01,27/11/13 12:54,27/11/13 12:54,47126,Mathew Turner,Accountancy,M002,2000000502M0022013,Invenio Automotive Sport,14278,wheels,MM spa,5/7/2013
+Payment Preparation,COMPLETED,27/11/13 12:54,28/11/13 11:20,28/11/13 11:20,47126,Mathew Turner,Accountancy,M002,2000000502M0022013,Invenio Automotive Sport,14278,wheels,MM spa,5/7/2013
+Payment Authorization,COMPLETED,28/11/13 11:20,29/11/13 18:11,29/11/13 18:11,47063,Kenneth Greenlaw,Payment Department,M002,2000000502M0022013,Invenio Automotive Sport,14278,wheels,MM spa,5/7/2013
+Warehouse Loading,COMPLETED,5/12/2013 1:01,5/12/2013 1:01,5/12/2013 1:01,0,Nancy William,Warehouse Manager,M006,2000001188M0062014,Invenio Brand,52846,hardware,The Company Co,4/12/2013
+Accountancy Registration,COMPLETED,26/02/14 02:02,26/02/14 02:02,26/02/14 02:02,1,Benjamin Evans,Accountancy,M006,2000001188M0062014,Invenio Brand,52846,hardware,The Company Co,4/12/2013
+Invoice Check,COMPLETED,3/3/2014 11:45,20/03/14 11:52,20/03/14 11:52,524,Walter Stanford,Accountancy,M006,2000001188M0062014,Invenio Brand,52846,hardware,The Company Co,4/12/2013
+Wait,COMPLETED,20/03/14 11:52,20/03/14 11:52,20/03/14 11:52,0,Nancy William,Payment Department,M006,2000001188M0062014,Invenio Brand,52846,hardware,The Company Co,4/12/2013
+Invoice Check,COMPLETED,20/03/14 11:52,21/03/14 08:52,21/03/14 08:52,507,Joann Burrell,Accountancy,M006,2000001188M0062014,Invenio Brand,52846,hardware,The Company Co,4/12/2013
+Goods Check,COMPLETED,21/03/14 08:52,21/03/14 08:52,21/03/14 09:07,524,Walter Stanford,Warehouse Department,M006,2000001188M0062014,Invenio Brand,52846,hardware,The Company Co,4/12/2013
+Wait,COMPLETED,21/03/14 09:07,21/03/14 09:07,21/03/14 09:07,0,Nancy William,Payment Department,M006,2000001188M0062014,Invenio Brand,52846,hardware,The Company Co,4/12/2013
+Invoice Check,COMPLETED,21/03/14 09:07,21/03/14 09:24,21/03/14 09:24,524,Walter Stanford,Accountancy,M006,2000001188M0062014,Invenio Brand,52846,hardware,The Company Co,4/12/2013
+Payment Preparation,COMPLETED,21/03/14 09:24,4/4/2014 16:19,4/4/2014 16:19,411,Tammy Stevens,Accountancy,M006,2000001188M0062014,Invenio Brand,52846,hardware,The Company Co,4/12/2013
+Payment Authorization,COMPLETED,4/4/2014 16:19,4/4/2014 16:52,4/4/2014 16:52,411,Tammy Stevens,Payment Department,M006,2000001188M0062014,Invenio Brand,52846,hardware,The Company Co,4/12/2013
+Warehouse Loading,COMPLETED,20/09/13 01:01,20/09/13 01:01,20/09/13 01:01,0,Nancy William,Warehouse Manager,M002,2000001368M0022013,Invenio Automotive Sport,35679,leather goods,Sydney Ltd,21/09/13
+Accountancy Registration,COMPLETED,31/10/13 02:02,31/10/13 02:02,31/10/13 02:02,47478,Helen Ballard,Accountancy,M002,2000001368M0022013,Invenio Automotive Sport,35679,leather goods,Sydney Ltd,21/09/13
+Invoice Check,COMPLETED,5/11/2013 18:38,4/12/2013 11:10,4/12/2013 11:10,47478,Helen Ballard,Accountancy,M002,2000001368M0022013,Invenio Automotive Sport,35679,leather goods,Sydney Ltd,21/09/13
+Goods Check,COMPLETED,4/12/2013 11:10,4/12/2013 11:10,6/12/2013 17:25,47061,Joseph Boudreau,Warehouse Department,M002,2000001368M0022013,Invenio Automotive Sport,35679,leather goods,Sydney Ltd,21/09/13
+Wait,COMPLETED,6/12/2013 17:25,6/12/2013 17:25,6/12/2013 17:25,0,Nancy William,Payment Department,M002,2000001368M0022013,Invenio Automotive Sport,35679,leather goods,Sydney Ltd,21/09/13
+Invoice Check,COMPLETED,6/12/2013 17:25,11/12/2013 14:14,11/12/2013 14:14,47478,Helen Ballard,Accountancy,M002,2000001368M0022013,Invenio Automotive Sport,35679,leather goods,Sydney Ltd,21/09/13
+Wait,COMPLETED,11/12/2013 14:14,11/12/2013 14:14,11/12/2013 14:14,0,Nancy William,Payment Department,M002,2000001368M0022013,Invenio Automotive Sport,35679,leather goods,Sydney Ltd,21/09/13
+Invoice Check,COMPLETED,11/12/2013 14:14,11/12/2013 14:28,11/12/2013 14:28,47478,Helen Ballard,Accountancy,M002,2000001368M0022013,Invenio Automotive Sport,35679,leather goods,Sydney Ltd,21/09/13
+Payment Preparation,COMPLETED,11/12/2013 14:28,19/12/13 14:41,19/12/13 14:41,47478,Helen Ballard,Accountancy,M002,2000001368M0022013,Invenio Automotive Sport,35679,leather goods,Sydney Ltd,21/09/13
+Payment Authorization,COMPLETED,19/12/13 14:41,20/12/13 15:03,20/12/13 15:03,47063,Kenneth Greenlaw,Payment Department,M002,2000001368M0022013,Invenio Automotive Sport,35679,leather goods,Sydney Ltd,21/09/13
+Warehouse Loading,COMPLETED,1/10/2013 1:01,1/10/2013 1:01,1/10/2013 1:01,0,Nancy William,Warehouse Manager,M006,2000001416M0062013,Invenio Brand,56923,control unit,Siemens,1/10/2013
+Accountancy Registration,COMPLETED,15/11/13 02:02,15/11/13 02:02,15/11/13 02:02,660107,Walter Stanford,Accountancy,M006,2000001416M0062013,Invenio Brand,56923,control unit,Siemens,1/10/2013
+Invoice Check,COMPLETED,15/11/13 12:06,30/12/13 11:52,30/12/13 11:52,524,Walter Stanford,Accountancy,M006,2000001416M0062013,Invenio Brand,56923,control unit,Siemens,1/10/2013
+Wait,COMPLETED,30/12/13 11:52,30/12/13 11:52,30/12/13 11:52,0,Nancy William,Payment Department,M006,2000001416M0062013,Invenio Brand,56923,control unit,Siemens,1/10/2013
+Invoice Check,COMPLETED,30/12/13 11:52,7/1/2014 9:08,7/1/2014 9:08,507,Joann Burrell,Accountancy,M006,2000001416M0062013,Invenio Brand,56923,control unit,Siemens,1/10/2013
+Goods Check,COMPLETED,7/1/2014 9:08,7/1/2014 9:08,7/1/2014 9:10,524,Walter Stanford,Warehouse Department,M006,2000001416M0062013,Invenio Brand,56923,control unit,Siemens,1/10/2013
+Wait,COMPLETED,7/1/2014 9:10,7/1/2014 9:10,7/1/2014 9:10,0,Nancy William,Payment Department,M006,2000001416M0062013,Invenio Brand,56923,control unit,Siemens,1/10/2013
+Invoice Check,COMPLETED,7/1/2014 9:10,7/1/2014 10:11,7/1/2014 10:11,524,Walter Stanford,Accountancy,M006,2000001416M0062013,Invenio Brand,56923,control unit,Siemens,1/10/2013
+Payment Preparation,COMPLETED,7/1/2014 10:11,11/2/2014 10:08,11/2/2014 10:08,411,Tammy Stevens,Accountancy,M006,2000001416M0062013,Invenio Brand,56923,control unit,Siemens,1/10/2013
+Payment Authorization,COMPLETED,11/2/2014 10:08,11/2/2014 11:30,11/2/2014 11:30,411,Tammy Stevens,Payment Department,M006,2000001416M0062013,Invenio Brand,56923,control unit,Siemens,1/10/2013
+Payment Preparation,COMPLETED,11/2/2014 11:30,7/3/2014 9:59,7/3/2014 9:59,411,Tammy Stevens,Accountancy,M006,2000001416M0062013,Invenio Brand,56923,control unit,Siemens,1/10/2013
+Payment Authorization,COMPLETED,7/3/2014 9:59,7/3/2014 10:52,7/3/2014 10:52,411,Tammy Stevens,Payment Department,M006,2000001416M0062013,Invenio Brand,56923,control unit,Siemens,1/10/2013
+Warehouse Loading,COMPLETED,2/10/2013 1:01,2/10/2013 1:01,2/10/2013 1:01,0,Nancy William,Warehouse Manager,M002,2000001865M0022013,Invenio Automotive Sport,129678,tires,Pirelli,2/10/2013
+Warehouse Loading,COMPLETED,3/10/2013 1:01,3/10/2013 1:01,3/10/2013 1:01,0,Nancy William,Warehouse Manager,M002,2000001865M0022013,Invenio Automotive Sport,129678,tires,Pirelli,2/10/2013
+Warehouse Loading,COMPLETED,9/10/2013 1:01,9/10/2013 1:01,9/10/2013 1:01,0,Nancy William,Warehouse Manager,M002,2000001865M0022013,Invenio Automotive Sport,129678,tires,Pirelli,2/10/2013
+Warehouse Loading,COMPLETED,14/10/13 01:01,14/10/13 01:01,14/10/13 01:01,0,Nancy William,Warehouse Manager,M002,2000001865M0022013,Invenio Automotive Sport,129678,tires,Pirelli,2/10/2013
+Warehouse Loading,COMPLETED,15/10/13 01:01,15/10/13 01:01,15/10/13 01:01,0,Nancy William,Warehouse Manager,M002,2000001865M0022013,Invenio Automotive Sport,129678,tires,Pirelli,2/10/2013
+Warehouse Loading,COMPLETED,16/10/13 01:01,16/10/13 01:01,16/10/13 01:01,0,Nancy William,Warehouse Manager,M002,2000001865M0022013,Invenio Automotive Sport,129678,tires,Pirelli,21/10/13
+Warehouse Loading,COMPLETED,21/10/13 01:01,21/10/13 01:01,21/10/13 01:01,0,Nancy William,Warehouse Manager,M002,2000001865M0022013,Invenio Automotive Sport,129678,tires,Pirelli,21/10/13
+Warehouse Loading,COMPLETED,22/10/13 01:01,22/10/13 01:01,22/10/13 01:01,0,Nancy William,Warehouse Manager,M002,2000001865M0022013,Invenio Automotive Sport,129678,tires,Pirelli,21/10/13
+Warehouse Loading,COMPLETED,24/10/13 01:01,24/10/13 01:01,24/10/13 01:01,0,Nancy William,Warehouse Manager,M002,2000001865M0022013,Invenio Automotive Sport,129678,tires,Pirelli,21/10/13
+Warehouse Loading,COMPLETED,25/10/13 01:01,25/10/13 01:01,25/10/13 01:01,0,Nancy William,Warehouse Manager,M002,2000001865M0022013,Invenio Automotive Sport,129678,tires,Pirelli,21/10/13
+Warehouse Loading,COMPLETED,30/10/13 01:01,30/10/13 01:01,30/10/13 01:01,0,Nancy William,Warehouse Manager,M002,2000001865M0022013,Invenio Automotive Sport,129678,tires,Pirelli,21/10/13
+Warehouse Loading,COMPLETED,4/11/2013 1:01,4/11/2013 1:01,4/11/2013 1:01,0,Nancy William,Warehouse Manager,M002,2000001865M0022013,Invenio Automotive Sport,129678,tires,Pirelli,21/10/13
+Accountancy Registration,COMPLETED,8/11/2013 2:02,8/11/2013 2:02,8/11/2013 2:02,47126,Mathew Turner,Accountancy,M002,2000001865M0022013,Invenio Automotive Sport,129678,tires,Pirelli,21/10/13
+Invoice Check,COMPLETED,18/11/13 18:06,28/01/14 14:35,28/01/14 14:35,47126,Mathew Turner,Accountancy,M002,2000001865M0022013,Invenio Automotive Sport,129678,tires,Pirelli,21/10/13
+Goods Check,COMPLETED,28/01/14 14:35,28/01/14 14:35,30/01/14 16:09,47061,Joseph Boudreau,Warehouse Department,M002,2000001865M0022013,Invenio Automotive Sport,129678,tires,Pirelli,21/10/13
+Wait,COMPLETED,30/01/14 16:09,30/01/14 16:09,30/01/14 16:09,0,Nancy William,Payment Department,M002,2000001865M0022013,Invenio Automotive Sport,129678,tires,Pirelli,21/10/13
+Invoice Check,COMPLETED,30/01/14 16:09,30/01/14 16:24,30/01/14 16:24,47126,Mathew Turner,Accountancy,M002,2000001865M0022013,Invenio Automotive Sport,129678,tires,Pirelli,21/10/13
+Wait,COMPLETED,30/01/14 16:24,30/01/14 16:24,30/01/14 16:24,0,Nancy William,Payment Department,M002,2000001865M0022013,Invenio Automotive Sport,129678,tires,Pirelli,21/10/13
+Invoice Check,COMPLETED,30/01/14 16:24,31/01/14 08:54,31/01/14 08:54,47126,Mathew Turner,Accountancy,M002,2000001865M0022013,Invenio Automotive Sport,129678,tires,Pirelli,21/10/13
+Payment Preparation,COMPLETED,31/01/14 08:54,5/2/2014 12:13,5/2/2014 12:13,47126,Mathew Turner,Accountancy,M002,2000001865M0022013,Invenio Automotive Sport,129678,tires,Pirelli,21/10/13
+Payment Authorization,COMPLETED,5/2/2014 12:13,7/2/2014 15:55,7/2/2014 15:55,47063,Kenneth Greenlaw,Payment Department,M002,2000001865M0022013,Invenio Automotive Sport,129678,tires,Pirelli,21/10/13
+Warehouse Loading,COMPLETED,30/12/13 01:01,30/12/13 01:01,30/12/13 01:01,0,Nancy William,Warehouse Manager,M002,2000002701M0022013,Invenio Automotive Sport,23761,Paint,Colorificio SM,21/12/13
+Accountancy Registration,COMPLETED,31/12/13 02:02,31/12/13 02:02,31/12/13 02:02,47478,Helen Ballard,Accountancy,M002,2000002701M0022013,Invenio Automotive Sport,23761,Paint,Colorificio SM,21/12/13
+Invoice Check,COMPLETED,13/01/14 14:02,28/01/14 08:36,28/01/14 08:36,47478,Helen Ballard,Accountancy,M002,2000002701M0022013,Invenio Automotive Sport,23761,Paint,Colorificio SM,21/12/13
+Goods Check,COMPLETED,28/01/14 08:36,28/01/14 08:36,30/01/14 16:53,47478,Helen Ballard,Warehouse Department,M002,2000002701M0022013,Invenio Automotive Sport,23761,Paint,Colorificio SM,21/12/13
+Wait,COMPLETED,30/01/14 16:53,30/01/14 16:53,30/01/14 16:53,0,Nancy William,Payment Department,M002,2000002701M0022013,Invenio Automotive Sport,23761,Paint,Colorificio SM,21/12/13
+Invoice Check,COMPLETED,30/01/14 16:53,3/2/2014 9:58,3/2/2014 9:58,47478,Helen Ballard,Accountancy,M002,2000002701M0022013,Invenio Automotive Sport,23761,Paint,Colorificio SM,21/12/13
+Wait,COMPLETED,3/2/2014 9:58,3/2/2014 9:58,3/2/2014 9:58,0,Nancy William,Payment Department,M002,2000002701M0022013,Invenio Automotive Sport,23761,Paint,Colorificio SM,21/12/13
+Invoice Check,COMPLETED,3/2/2014 9:58,3/2/2014 10:29,3/2/2014 10:29,47478,Helen Ballard,Accountancy,M002,2000002701M0022013,Invenio Automotive Sport,23761,Paint,Colorificio SM,21/12/13
+Payment Preparation,COMPLETED,3/2/2014 10:29,26/03/14 17:36,26/03/14 17:36,47478,Helen Ballard,Accountancy,M002,2000002701M0022013,Invenio Automotive Sport,23761,Paint,Colorificio SM,21/12/13
+Payment Authorization,COMPLETED,26/03/14 17:36,28/03/14 17:24,28/03/14 17:24,47063,Kenneth Greenlaw,Payment Department,M002,2000002701M0022013,Invenio Automotive Sport,23761,Paint,Colorificio SM,21/12/13
+Warehouse Loading,COMPLETED,2/7/2013 1:01,2/7/2013 1:01,2/7/2013 1:01,0,Nancy William,Warehouse Manager,M004,2109000443M0042013,Invenio Automotive,38555,connectors,Bosch,2/7/2013
+Warehouse Loading,COMPLETED,1/9/2013 1:01,1/9/2013 1:01,1/9/2013 1:01,0,Nancy William,Warehouse Manager,M004,2109000443M0042013,Invenio Automotive,38555,connectors,Bosch,2/7/2013
+Accountancy Registration,COMPLETED,30/09/13 02:02,30/09/13 02:02,30/09/13 02:02,257181,Walter Johnson,Accountancy,M004,2109000443M0042013,Invenio Automotive,38555,connectors,Bosch,2/7/2013
+Invoice Check,COMPLETED,1/10/2013 18:04,1/10/2013 18:17,1/10/2013 18:17,257292,Bessie Adams,Accountancy,M004,2109000443M0042013,Invenio Automotive,38555,connectors,Bosch,2/7/2013
+Goods Check,COMPLETED,1/10/2013 18:17,1/10/2013 18:17,3/10/2013 14:06,257761,Ricky Burnham,Warehouse Department,M004,2109000443M0042013,Invenio Automotive,38555,connectors,Bosch,2/7/2013
+Wait,COMPLETED,3/10/2013 14:06,3/10/2013 14:06,3/10/2013 14:06,0,Nancy William,Payment Department,M004,2109000443M0042013,Invenio Automotive,38555,connectors,Bosch,2/7/2013
+Invoice Check,COMPLETED,3/10/2013 14:06,3/10/2013 14:06,3/10/2013 14:06,257761,Ricky Burnham,Accountancy,M004,2109000443M0042013,Invenio Automotive,38555,connectors,Bosch,2/7/2013
+Wait,COMPLETED,3/10/2013 14:06,3/10/2013 14:06,3/10/2013 14:06,0,Nancy William,Payment Department,M004,2109000443M0042013,Invenio Automotive,38555,connectors,Bosch,2/7/2013
+Invoice Check,COMPLETED,3/10/2013 14:06,3/10/2013 14:53,3/10/2013 14:53,257292,Bessie Adams,Accountancy,M004,2109000443M0042013,Invenio Automotive,38555,connectors,Bosch,2/7/2013
+Payment Preparation,COMPLETED,3/10/2013 14:53,3/10/2013 15:27,3/10/2013 15:27,257292,Bessie Adams,Accountancy,M004,2109000443M0042013,Invenio Automotive,38555,connectors,Bosch,2/7/2013
+Payment Authorization,COMPLETED,3/10/2013 15:27,3/10/2013 15:27,4/10/2013 11:52,257294,Robert Francis,Payment Department,M004,2109000443M0042013,Invenio Automotive,38555,connectors,Bosch,2/7/2013
+Invoice Check,COMPLETED,29/01/14 19:36,30/01/14 10:54,30/01/14 10:54,231440,Jose Reyes,Accountancy,M003,2000000561M0032014,Invenio Racing,12200,Consultancy,ACN ltd,31/01/14
+Wait,COMPLETED,30/01/14 10:54,30/01/14 10:54,30/01/14 10:54,0,Nancy William,Payment Department,M003,2000000561M0032014,Invenio Racing,12200,Consultancy,ACN ltd,31/01/14
+Invoice Check,COMPLETED,30/01/14 10:54,30/01/14 11:22,30/01/14 11:22,231440,Jose Reyes,Accountancy,M003,2000000561M0032014,Invenio Racing,12200,Consultancy,ACN ltd,31/01/14
+Payment Preparation,COMPLETED,30/01/14 11:22,21/02/14 10:43,21/02/14 10:43,999999,Nancy William,Accountancy,M003,2000000561M0032014,Invenio Racing,12200,Consultancy,ACN ltd,31/01/14
+Payment Cancellation,COMPLETED,21/02/14 10:43,21/02/14 10:43,21/02/14 10:43,0,Nancy William,Payment Department,M003,2000000561M0032014,Invenio Racing,12200,Consultancy,ACN ltd,31/01/14
+Invoice Check,COMPLETED,27/03/14 09:54,3/4/2014 12:15,3/4/2014 12:15,47126,Mathew Turner,Accountancy,M002,2800000132M0022014,Invenio Automotive Sport,35987,Telco,Telecom,
+Wait,COMPLETED,3/4/2014 12:15,3/4/2014 12:15,3/4/2014 12:15,0,Nancy William,Payment Department,M002,2800000132M0022014,Invenio Automotive Sport,35987,Telco,Telecom,
+Invoice Check,COMPLETED,3/4/2014 12:15,3/4/2014 14:52,3/4/2014 14:52,47126,Mathew Turner,Accountancy,M002,2800000132M0022014,Invenio Automotive Sport,35987,Telco,Telecom,
+Payment Preparation,COMPLETED,3/4/2014 14:52,16/04/14 10:38,16/04/14 10:38,999999,Nancy William,Accountancy,M002,2800000132M0022014,Invenio Automotive Sport,35987,Telco,Telecom,
+Payment Cancellation,COMPLETED,16/04/14 10:38,16/04/14 10:38,16/04/14 10:38,0,Nancy William,Payment Department,M002,2800000132M0022014,Invenio Automotive Sport,35987,Telco,Telecom,
